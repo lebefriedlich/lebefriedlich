@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Backend development using Laravel, Fastify, Express, and Go.<br>👯 I’m looking to collaborate on: Open-source backend and educational technology projects.<br>🤝 I’m looking for help with: Backend scalability, optimization, and distributed systems.<br>🌱 I’m currently learning: Advanced backend architecture, Go, and cloud deployment.<br>💬 Ask me about: Laravel, Node.js (Fastify & Express), REST APIs, and backend design.<br>⚡ Fun fact: I enjoy turning complex backend logic into efficient and maintainable systems.
+🔭 I’m currently working on: Backend development using Laravel, Fastify, Express, Flask and Go.<br>👯 I’m looking to collaborate on: Open-source backend and educational technology projects.<br>🤝 I’m looking for help with: Backend scalability, optimization, and distributed systems.<br>🌱 I’m currently learning: Advanced backend architecture, Go, and cloud deployment.<br>💬 Ask me about: Laravel, Node.js (Fastify & Express), REST APIs, and backend design.<br>⚡ Fun fact: I enjoy turning complex backend logic into efficient and maintainable systems.
 
 
 ## 🌐 Socials:
